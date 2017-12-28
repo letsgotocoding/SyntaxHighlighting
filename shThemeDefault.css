@@ -44,9 +44,10 @@
   color: red !important;
 }
 .syntaxhighlighter .toolbar {
-  color: white !important;
+  /*color: white !important;
   background: #6ce26c !important;
-  border: none !important;
+  border: none !important;*/
+  display: none;
 }
 .syntaxhighlighter .toolbar a {
   color: white !important;
